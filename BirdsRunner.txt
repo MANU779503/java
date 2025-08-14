@@ -1,0 +1,5 @@
+class BirdRunner{
+public static void main (String[]args){
+duble Birds = Birds.TotalNoOfBirds(1);
+System.out.println("Total No Of Birds in State="+Birds);
+}
