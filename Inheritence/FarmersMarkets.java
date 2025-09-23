@@ -1,0 +1,4 @@
+class FarmersMarkets extends Market {
+	
+
+}

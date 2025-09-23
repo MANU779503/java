@@ -1,0 +1,2 @@
+class MiniShoppingCenter extends ShoppingCenter {
+}
