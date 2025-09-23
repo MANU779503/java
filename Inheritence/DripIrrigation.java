@@ -1,0 +1,2 @@
+class DripIrrigation extends Irrigation {
+}

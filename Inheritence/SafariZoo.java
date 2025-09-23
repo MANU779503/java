@@ -1,0 +1,2 @@
+class SafariZoo extends Zoo {
+}

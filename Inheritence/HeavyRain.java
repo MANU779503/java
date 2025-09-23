@@ -1,0 +1,2 @@
+class HeavyRain extends Rain {
+}

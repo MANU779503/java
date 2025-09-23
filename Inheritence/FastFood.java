@@ -1,0 +1,2 @@
+class FastFood extends FoodInfo {
+}

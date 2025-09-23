@@ -1,0 +1,2 @@
+class RoseShop extends FlowerShopDemo{
+}
